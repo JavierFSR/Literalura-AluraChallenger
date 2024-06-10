@@ -1,7 +1,7 @@
 <h1 align="center"> Literalura</h1>
 <h1 align="center"> Desafio Alura</h1>
 
-<p>Este proyecto consiste en crear un catálogo de libros en el cual la persona puede registrar libros en una base de datos y recibir información sobre estos libros que ya están registrados en la base de datos. La base de datos es alimentada por una API (https://gutendex.com/) para obtener las distintas tasas de cambio en tiempo real.
+<p>Este proyecto consiste en crear un catálogo de libros en el cual la persona puede registrar libros en una base de datos y recibir información sobre estos libros que ya están registrados en la base de datos. La base de datos es alimentada por una API (https://gutendex.com/).
 Este es un proyecto propusto por Alura latam, para poner en practica lo aprendido en el transcurso de sus cursos.
 
 Actualmente tenemos las siguientes servicios:
